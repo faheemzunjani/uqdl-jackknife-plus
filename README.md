@@ -3,7 +3,7 @@
 **Paper:** Predictive Inference with the Jackknife+  
 **Authors:** Rina Foygel Barber and Emmanuel J. Candes and Aaditya Ramdas and Ryan J. Tibshirani
 
-In this project, I have extended the code written by the original authors to experiment with automated ML driven deep models for regression tasks on 3 new datasets. 
+In this project, I have extended the code written by the original authors to experiment with automated ML driven deep models for regression tasks on a new dataset (Life Expectancy WHO). 
 
 My new experiments with real data: 
 * jackknife\_realdata_Faheem.ipynb (Jupyter notebook).
